@@ -1,0 +1,10 @@
+# Copy to .dev.vars for local development (never commit .dev.vars).
+# In production set these with: bunx wrangler secret put ADMIN_EMAIL / ADMIN_PASSWORD
+NEXTJS_ENV=development
+# Bootstrap admin, created on the first login attempt if no admin exists yet.
+ADMIN_EMAIL=admin@example.com
+# At least 10 characters.
+ADMIN_PASSWORD=change-me-to-a-long-random-password
+# Secret mixed into every password hash (HMAC). Generate a long random value and never change it,
+# or every existing password stops working. Production: bunx wrangler secret put PASSWORD_PEPPER
+PASSWORD_PEPPER=generate-a-long-random-value

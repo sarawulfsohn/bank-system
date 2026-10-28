@@ -1,0 +1,109 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Length 3735 >>
+stream
+BT /F2 18 Tf 50 740 Td (Maple Ridge Community Bank) Tj ET
+BT /F1 10 Tf 50 722 Td (PO Box 4100, Springfield, OR 97477  |  \(555\) 010-2200  |  FAKE TEST DOCUMENT) Tj ET
+BT /F2 10 Tf 50 690 Td (Account holder: Jordan Q. Sample) Tj ET
+BT /F1 10 Tf 50 676 Td (123 Example Lane, Springfield, OR 97477) Tj ET
+BT /F2 10 Tf 360 690 Td (Everyday Checking) Tj ET
+BT /F1 10 Tf 360 676 Td (Account number: XXXX-XXXX-4821) Tj ET
+BT /F1 10 Tf 360 662 Td (Statement no. 2026-10-0002) Tj ET
+BT /F1 10 Tf 360 648 Td (Statement period: October 1, 2026 - October 31, 2026) Tj ET
+BT /F2 12 Tf 50 615 Td (Account Summary) Tj ET
+BT /F1 10 Tf 50 598 Td (Beginning balance on 10/01/2026) Tj ET
+BT /F1 10 Tf 283.2 598 Td ($1,980.12) Tj ET
+BT /F1 10 Tf 50 584 Td (Deposits and other credits) Tj ET
+BT /F1 10 Tf 283.2 584 Td ($4,820.98) Tj ET
+BT /F1 10 Tf 50 570 Td (Withdrawals and other debits) Tj ET
+BT /F1 10 Tf 278 570 Td (-$2,349.21) Tj ET
+BT /F1 10 Tf 50 556 Td (  includes service fees) Tj ET
+BT /F1 10 Tf 298.8 556 Td (-$9.60) Tj ET
+BT /F1 10 Tf 50 542 Td (Ending balance on 10/31/2026) Tj ET
+BT /F1 10 Tf 283.2 542 Td ($4,451.89) Tj ET
+BT /F1 10 Tf 50 520 Td (Number of transactions this period: 12) Tj ET
+BT /F2 12 Tf 50 490 Td (Transaction Details) Tj ET
+BT /F2 10 Tf 50 472 Td (Date) Tj ET
+BT /F2 10 Tf 110 472 Td (Description) Tj ET
+BT /F2 10 Tf 398.8 472 Td (Amount) Tj ET
+BT /F2 10 Tf 503.6 472 Td (Balance) Tj ET
+BT /F1 10 Tf 50 456 Td (10/01) Tj ET
+BT /F1 10 Tf 110 456 Td (Direct Deposit - ACME Logistics Payroll) Tj ET
+BT /F1 10 Tf 388.4 456 Td (2,280.00) Tj ET
+BT /F1 10 Tf 498.4 456 Td (4,260.12) Tj ET
+BT /F1 10 Tf 50 440 Td (10/03) Tj ET
+BT /F1 10 Tf 110 440 Td (Online Transfer - Rent, Oak Street Apartments) Tj ET
+BT /F1 10 Tf 383.2 440 Td (-1,320.00) Tj ET
+BT /F1 10 Tf 498.4 440 Td (2,940.12) Tj ET
+BT /F1 10 Tf 50 424 Td (10/05) Tj ET
+BT /F1 10 Tf 110 424 Td (Debit Card - Green Basket Grocery) Tj ET
+BT /F1 10 Tf 393.6 424 Td (-114.29) Tj ET
+BT /F1 10 Tf 498.4 424 Td (2,825.83) Tj ET
+BT /F1 10 Tf 50 408 Td (10/08) Tj ET
+BT /F1 10 Tf 110 408 Td (ACH Payment - Springfield Electric Co) Tj ET
+BT /F1 10 Tf 398.8 408 Td (-77.12) Tj ET
+BT /F1 10 Tf 498.4 408 Td (2,748.71) Tj ET
+BT /F1 10 Tf 50 392 Td (10/12) Tj ET
+BT /F1 10 Tf 110 392 Td (Mobile Check Deposit #1043) Tj ET
+BT /F1 10 Tf 398.8 392 Td (260.00) Tj ET
+BT /F1 10 Tf 498.4 392 Td (3,008.71) Tj ET
+BT /F1 10 Tf 50 376 Td (10/15) Tj ET
+BT /F1 10 Tf 110 376 Td (Direct Deposit - ACME Logistics Payroll) Tj ET
+BT /F1 10 Tf 388.4 376 Td (2,280.00) Tj ET
+BT /F1 10 Tf 498.4 376 Td (5,288.71) Tj ET
+BT /F1 10 Tf 50 360 Td (10/18) Tj ET
+BT /F1 10 Tf 110 360 Td (Debit Card - Corner Coffee House) Tj ET
+BT /F1 10 Tf 404 360 Td (-5.40) Tj ET
+BT /F1 10 Tf 498.4 360 Td (5,283.31) Tj ET
+BT /F1 10 Tf 50 344 Td (10/20) Tj ET
+BT /F1 10 Tf 110 344 Td (ACH Payment - Pinecrest Auto Insurance) Tj ET
+BT /F1 10 Tf 393.6 344 Td (-102.80) Tj ET
+BT /F1 10 Tf 498.4 344 Td (5,180.51) Tj ET
+BT /F1 10 Tf 50 328 Td (10/22) Tj ET
+BT /F1 10 Tf 110 328 Td (Check #2211) Tj ET
+BT /F1 10 Tf 393.6 328 Td (-320.00) Tj ET
+BT /F1 10 Tf 498.4 328 Td (4,860.51) Tj ET
+BT /F1 10 Tf 50 312 Td (10/25) Tj ET
+BT /F1 10 Tf 110 312 Td (Monthly Maintenance Fee) Tj ET
+BT /F1 10 Tf 404 312 Td (-9.60) Tj ET
+BT /F1 10 Tf 498.4 312 Td (4,850.91) Tj ET
+BT /F1 10 Tf 50 296 Td (10/28) Tj ET
+BT /F1 10 Tf 110 296 Td (Transfer to Savings XXXX-7730) Tj ET
+BT /F1 10 Tf 393.6 296 Td (-400.00) Tj ET
+BT /F1 10 Tf 498.4 296 Td (4,450.91) Tj ET
+BT /F1 10 Tf 50 280 Td (10/31) Tj ET
+BT /F1 10 Tf 110 280 Td (Interest Paid) Tj ET
+BT /F1 10 Tf 409.2 280 Td (0.98) Tj ET
+BT /F1 10 Tf 498.4 280 Td (4,451.89) Tj ET
+BT /F1 10 Tf 50 250 Td (This statement was generated for software testing and contains no real customer data.) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000348 00000 n 
+0000000450 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4237
+%%EOF

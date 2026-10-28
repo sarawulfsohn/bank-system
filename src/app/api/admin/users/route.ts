@@ -1,0 +1,12 @@
+import { NextResponse } from "next/server";
+import { listUsers } from "@/lib/db";
+import { errorResponse, requireAdmin } from "@/lib/auth";
+
+export async function GET() {
+  try {
+    await requireAdmin();
+    return NextResponse.json(await listUsers());
+  } catch (e) {
+    return errorResponse(e);
+  }
+}

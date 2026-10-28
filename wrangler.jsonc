@@ -1,0 +1,22 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "doc-parser",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2025-03-01",
+  "compatibility_flags": ["nodejs_compat", "global_fetch_strictly_public"],
+  "assets": { "binding": "ASSETS", "directory": ".open-next/assets" },
+  "observability": { "enabled": true },
+  "ai": { "binding": "AI", "remote": true },
+  // Sign-up is invite-only by default (admins create links under Admin > Users)
+  "vars": { "ALLOW_REGISTRATION": "false", "DAILY_UPLOAD_LIMIT": "30" },
+  // Originals of every uploaded statement. Create once: wrangler r2 bucket create doc-parser-statements
+  "r2_buckets": [{ "binding": "STATEMENTS", "bucket_name": "doc-parser-statements" }],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "doc-parser-db",
+      "database_id": "cc83d534-0168-43f4-9a3a-3204bf1e82b8",
+      "migrations_dir": "migrations"
+    }
+  ]
+}
